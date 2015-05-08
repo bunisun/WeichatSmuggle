@@ -1,0 +1,6 @@
+﻿<Window x:Class="WechatSmuggle.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="萌萌哒-微文章导入" Height="420.513" Width="528.205" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="grid_DBConnection" HorizontalAlignment="Right" Height="401" VerticalAlignment="Top" Width="528" Margin="0,10,-8,-20" RenderTransformOrigin="0.507,0.476"/>
+</Window>
