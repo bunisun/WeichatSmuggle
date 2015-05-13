@@ -51,14 +51,13 @@ namespace WechatSmuggle
         {
             //点击确认按钮，确认上传数据库文件
             String dbdir = text_sdfDir.Text;
-            if (dbdir.Length==0)
+            if (dbdir.Length==0||!dbdir.EndsWith("sdf"))
             {
                 lbl_warning.Visibility = Visibility.Visible;
             }
             else {
-                Window1 mwin = new Window1();
-                this.Close();
-                mwin.Show();
+                //sdf路径传值给localdbupload
+                lbl_warning.Visibility = System.Windows.Visibility.Hidden;
             }
         }
     }

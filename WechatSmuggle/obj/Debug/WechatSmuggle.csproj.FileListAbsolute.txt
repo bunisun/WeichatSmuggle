@@ -2,8 +2,6 @@ F:\weisun\workspace\WechatSmuggle\WechatSmuggle\bin\Debug\WechatSmuggle.exe.conf
 F:\weisun\workspace\WechatSmuggle\WechatSmuggle\bin\Debug\WechatSmuggle.exe
 F:\weisun\workspace\WechatSmuggle\WechatSmuggle\bin\Debug\WechatSmuggle.pdb
 F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\WechatSmuggle.csprojResolveAssemblyReference.cache
-F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\MainWindow.baml
-F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\MainWindow.g.cs
 F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\App.g.cs
 F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\WechatSmuggle_MarkupCompile.cache
 F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\WechatSmuggle.g.resources
@@ -11,5 +9,11 @@ F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\WechatSmuggle.Properti
 F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\WechatSmuggle.csproj.GenerateResource.Cache
 F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\WechatSmuggle.exe
 F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\WechatSmuggle.pdb
-F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\Window1.baml
-F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\Window1.g.cs
+F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\SdfUpld.baml
+F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\ServerConn.baml
+F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\Update.baml
+F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\SdfUpld.g.cs
+F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\ServerConn.g.cs
+F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\Update.g.cs
+F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\Upload.baml
+F:\weisun\workspace\WechatSmuggle\WechatSmuggle\obj\Debug\Upload.g.cs

@@ -20,7 +20,7 @@
         <Button x:Name="btn_browse" Content="浏览" HorizontalAlignment="Left" Margin="270,92,0,0" VerticalAlignment="Top" Width="53" Click="btn_browse_Click" Height="22"/>
         <Button Content="取消" HorizontalAlignment="Left" Margin="247,151,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Height="22"/>
         <Button Content="确认" HorizontalAlignment="Left" Margin="135,151,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1" Height="22"/>
-        <Label x:Name="lbl_warning" Content="本地数据文件不能为空！" HorizontalAlignment="Left" Margin="41,206,0,0" VerticalAlignment="Top" Foreground="#FFE21212" FontWeight="Bold" FontSize="16" Visibility="Hidden" Height="31" Width="186"/>
+        <Label x:Name="lbl_warning" Content="本地数据文件格式错误！" HorizontalAlignment="Left" Margin="41,206,0,0" VerticalAlignment="Top" Foreground="#FFE21212" FontWeight="Bold" FontSize="16" Visibility="Hidden" Height="31" Width="186"/>
 
     </Grid>
 </Window>
